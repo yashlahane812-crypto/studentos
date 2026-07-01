@@ -1,0 +1,6 @@
+{
+  "name": "StudentOS",
+  "description": "Your AI Academic Companion. An all-in-one workspace featuring a smart to-do planner, AI notes summaries, a step-by-step doubt solver, gamified streak tracking, and interactive study flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
